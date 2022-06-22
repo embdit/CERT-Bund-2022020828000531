@@ -11,4 +11,4 @@ The following weaknesses were found:
 3. Improper TLS certificate validation allowing sniffing/MitM attacks
 4. SQL injection in login form of desktop application
 
-**Currently undisclosed, because vendor refused to provide patches as of today (2022-06-22).**
+**Currently undisclosed, because vendor refuses to provide patches as of today (2022-06-22).**
